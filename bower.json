@@ -1,0 +1,25 @@
+{
+  "name": "hello-ng",
+  "version": "1.0.0",
+  "dependencies": {
+    "angular" : "~1.0.8"
+  },
+  "authors": [
+    "Rushaine McBean <codekid24@gmail.com>"
+  ],
+  "description": "AngularJS crash course - Hello World app",
+  "main": "index.html",
+  "keywords": [
+    "AngularJS",
+    "Bower",
+    "GruntJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
